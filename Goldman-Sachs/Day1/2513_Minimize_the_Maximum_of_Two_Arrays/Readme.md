@@ -34,6 +34,6 @@ It can be shown that it is not possible to obtain a lower maximum satisfying all
  
 
 ### Constraints:
-2 <= divisor1, divisor2 <= 105
-1 <= uniqueCnt1, uniqueCnt2 < 109
-2 <= uniqueCnt1 + uniqueCnt2 <= 109
+2 <= divisor1, divisor2 <= 105 , 
+1 <= uniqueCnt1, uniqueCnt2 < 109  , 
+2 <= uniqueCnt1 + uniqueCnt2 <= 109 
