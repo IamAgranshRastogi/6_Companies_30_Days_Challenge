@@ -9,8 +9,10 @@ Access times at the start and end of the day are not counted within the same one
 Return a list that contains the names of high-access employees with any order you want.
 
 ### Example 1:
-### Input: access_times = [["a","0549"],["b","0457"],["a","0532"],["a","0621"],["b","0540"]]
-### Output: ["a"]
+### Input: 
+access_times = [["a","0549"],["b","0457"],["a","0532"],["a","0621"],["b","0540"]]
+### Output: 
+["a"]
 ### Explanation: 
 "a" has three access times in the one-hour period of [05:32, 06:31] which are 05:32, 05:49, and 06:21.
 But "b" does not have more than two access times at all.
