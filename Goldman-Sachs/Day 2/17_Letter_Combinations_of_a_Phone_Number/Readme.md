@@ -1,9 +1,10 @@
 # 17. Letter Combinations of a Phone Number
 ## Medium
-Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.
-A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
+Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in **any order**.
 
-![1200px-telephone-keypad2svg](https://github.com/IamAgranshRastogi/6_Companies_30_Days_Challenge/assets/118201022/de63a61e-1eae-4c82-819d-a6bcb7741c13)
+**A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.**
+
+![400px-telephone-keypad2svg](https://github.com/IamAgranshRastogi/6_Companies_30_Days_Challenge/assets/118201022/de63a61e-1eae-4c82-819d-a6bcb7741c13)
 
 ### Example 1:
 ### Input: 
